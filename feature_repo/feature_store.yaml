@@ -1,0 +1,8 @@
+
+        project: house_price_prediction
+        registry: data/registry
+        provider: local
+        online_store:
+            type: sqlite
+            path: data/online_store.db
+        

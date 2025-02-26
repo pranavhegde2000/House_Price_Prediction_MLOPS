@@ -1,0 +1,33 @@
+# Data Science
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# MLOps
+mlflow
+dvc
+fastapi
+uvicorn
+streamlit
+
+# Testing
+pytest
+pytest-cov
+
+# Deployment
+docker
+python-dotenv
+
+# Feature Store
+feast
+
+# Other utilities
+pydantic
+joblib
+
+# Model
+xgboost
+
+requests
