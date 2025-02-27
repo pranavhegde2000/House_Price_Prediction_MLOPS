@@ -41,3 +41,5 @@ data/processed/
 # IDE specific files
 .idea/
 .vscode/
+
+.venv/
